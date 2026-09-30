@@ -132,6 +132,12 @@ at Epoch 1. This is documented in the notebook as a key finding.
 ## 🌿 30 Plant Classes
 
 The following class names are taken directly from the dataset:
+aloevera      banana        bilimbi       cantaloupe    cassava
+coconut       corn          cucumber      curcuma       eggplant
+galangal      ginger        guava         kale          longbeans
+mango         melon         orange        paddy         papaya
+peperchili    pineapple     pomelo        shallot       soybeans
+spinach       sweetpotatoes tobacco       waterapple    watermelon
 
 ---
 
@@ -267,7 +273,11 @@ accessible via a temporary Cloudflare Tunnel URL.
 > class names (`class_names.json`), and
 > graphs are stored on Google Drive and
 > are not included in this repository.
-
+PhytoScan-AI/
+│
+├── PhytoScan_AI_Complete.ipynb   ← Full project notebook
+├── README.md                     ← This file
+└── LICENSE
 ---
 
 ## 🚀 How to Run
